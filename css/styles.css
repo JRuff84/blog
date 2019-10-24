@@ -30,3 +30,14 @@
 img {
   max-width: 25%;
 }
+
+.border {
+  border: 2px solid black;
+  margin: 12px;
+  padding: 4px;
+  background-color: white;
+}
+
+.margin-page {
+  margin: 12px;
+}
