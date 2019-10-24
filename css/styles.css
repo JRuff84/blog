@@ -5,3 +5,28 @@
 .red-background {
   background-color: #F1AFBD;
 }
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.float-image {
+  float: right;
+}
+
+.header-center {
+  text-align: center;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+.column-wide {
+  width: 300px;
+}
+
+img {
+  max-width: 25%;
+}
